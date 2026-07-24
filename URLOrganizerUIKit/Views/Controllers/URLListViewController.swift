@@ -183,7 +183,7 @@ final class URLListViewController: UIViewController {
   }
 
   private func currentItems() -> [URLItem] {
-    dataSource.snapshot().itemIdentifiers(inSection: .main)
+    dataSource.snapshot().itemIdentifiers
   }
 
   // MARK: - Actions
