@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct URLItem: Hashable, Codable {
+nonisolated struct URLItem: Hashable, Codable {
   let id: UUID
   let url: URL
   
