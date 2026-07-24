@@ -32,9 +32,9 @@ This project was specifically designed to demonstrate proficiency in modern iOS 
 2. Open `URLOrganizerUIKit.xcodeproj` in Xcode.
 3. Build and run on any iOS Simulator or physical device. No package resolution or setup scripts required.
 ## Screenshots
-<img width="160" alt="Simulator Screenshot - iPhone 11 - 2026-07-25 at 00 43 17" src="https://github.com/user-attachments/assets/221594bd-d2e2-4b0d-a5c8-d1a714dc19c7" />
-<img width="160" alt="Simulator Screenshot - iPhone 11 - 2026-07-25 at 00 46 09" src="https://github.com/user-attachments/assets/28f768a7-6fe0-4ebb-bc1a-2ffc0dcb880a" />
-<img width="160" alt="Simulator Screenshot - iPhone 11 - 2026-07-25 at 00 44 08" src="https://github.com/user-attachments/assets/448a4f31-2775-42bc-a12d-e0411cf36412" />
+<img width="200" alt="Simulator Screenshot - iPhone 11 - 2026-07-25 at 00 43 17" src="https://github.com/user-attachments/assets/221594bd-d2e2-4b0d-a5c8-d1a714dc19c7" />
+<img width="200" alt="Simulator Screenshot - iPhone 11 - 2026-07-25 at 00 46 09" src="https://github.com/user-attachments/assets/28f768a7-6fe0-4ebb-bc1a-2ffc0dcb880a" />
+<img width="200" alt="Simulator Screenshot - iPhone 11 - 2026-07-25 at 00 44 08" src="https://github.com/user-attachments/assets/448a4f31-2775-42bc-a12d-e0411cf36412" />
 
 
 
