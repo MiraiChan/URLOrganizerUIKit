@@ -177,9 +177,7 @@ final class URLListViewController: UIViewController {
     snapshot.appendItems(urls, toSection: .main)
     dataSource.apply(snapshot, animatingDifferences: true)
 
-    let isEmpty = urls.isEmpty
-    emptyStateView.isHidden = !isEmpty
-    tableView.isHidden = isEmpty
+    emptyStateView.isHidden = !urls.isEmpty
   }
 
   private func currentItems() -> [URLItem] {
